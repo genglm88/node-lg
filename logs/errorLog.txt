@@ -1,0 +1,11 @@
+
+20230214	21:24:31	1d80c337-c98a-4717-b27b-6f11b558284e	Not allowed by CORS
+20230214	21:24:31	e5083f5a-35df-475d-be2d-26eb95e6b6da	Not allowed by CORS
+20230214	21:26:20	4eeb365e-8ddc-4386-afcd-d0e532107815	Error: Not allowed by CORS
+20230214	21:26:20	09943663-5e49-496b-8dcd-22855fe7961c	Error: Not allowed by CORS
+20230305	11:19:10	33b18ceb-32d9-4dd1-a259-79df3ac1eddf	TypeError: allowedOrigins.indludes is not a function
+20230305	11:19:18	1c5c0f4f-3a57-44f6-bb78-2f91f78f3b9e	TypeError: allowedOrigins.indludes is not a function
+20230305	11:19:32	54c82f73-874f-4f39-bea7-2903417911b5	TypeError: allowedOrigins.indludes is not a function
+20230305	11:19:46	656c559e-ac77-4113-8830-34761cb7e466	TypeError: allowedOrigins.indludes is not a function
+20230306	20:24:01	3a42fc54-29ef-4282-92ba-47e05e8be0af	SyntaxError: Unexpected token i in JSON at position 1
+20230306	20:26:04	0f552218-fcc8-462c-b6b3-2d600379122c	SyntaxError: Unexpected token " in JSON at position 0
